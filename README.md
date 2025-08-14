@@ -49,9 +49,6 @@ python ipl_analysis.py
 - **Console Summary:** Top performers and team summaries
 - **Preview Visualizations:**  
 
-![Top Runs](/mnt/data/ipltmp_images/plot_preview_1.png)
-![Top Strike Rates](/mnt/data/ipltmp_images/plot_preview_2.png)
-![Bowling Stats](/mnt/data/ipltmp_images/plot_preview_3.png)
 
 ##  Key Highlights from IPL 2025
 - **Most Runs:** Automatically detected from dataset
